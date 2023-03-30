@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Qiang&#39;s Homepage</title>
+    <link>https://qianghu-huber.github.io/qianghuhomepage/</link>
+    <description>Recent content on Guo&#39;s Homepage</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2023 Qiang Hu</copyright>
+    <lastBuildDate>Fri, 20 Dec 2019 10:00:00 +0800</lastBuildDate>
+    
+	<atom:link href="https://qianghu-huber.github.io/qianghuhomepage/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+    
+    
+    
+
+    
+  </channel>
+</rss>

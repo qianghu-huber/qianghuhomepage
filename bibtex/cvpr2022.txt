@@ -1,0 +1,9 @@
+@INPROCEEDINGS{9879179,
+  author={Lu, Guo and Zhong, Tianxiong and Geng, Jing and Hu, Qiang and Xu, Dong},
+  booktitle={2022 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)}, 
+  title={Learning based Multi-modality Image and Video Compression}, 
+  year={2022},
+  volume={},
+  number={},
+  pages={6073-6082},
+  doi={10.1109/CVPR52688.2022.00599}}

@@ -1,0 +1,9 @@
+@ARTICLE{9166744,
+  author={Wu, Minye and Ling, Haibin and Bi, Ning and Gao, Shenghua and Hu, Qiang and Sheng, Hao and Yu, Jingyi},
+  journal={IEEE Transactions on Image Processing}, 
+  title={Visual Tracking With Multiview Trajectory Prediction}, 
+  year={2020},
+  volume={29},
+  number={},
+  pages={8355-8367},
+  doi={10.1109/TIP.2020.3014952}}

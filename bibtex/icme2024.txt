@@ -1,0 +1,8 @@
+@misc{zhang2024efficient,
+      title={Efficient Dynamic-NeRF Based Volumetric Video Coding with Rate Distortion Optimization}, 
+      author={Zhiyu Zhang and Guo Lu and Huanxiong Liang and Anni Tang and Qiang Hu and Li Song},
+      year={2024},
+      eprint={2402.01380},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}

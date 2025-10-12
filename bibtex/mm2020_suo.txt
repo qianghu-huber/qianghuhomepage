@@ -1,0 +1,15 @@
+@inproceedings{10.1145/3394171.3413734,
+author = {Suo, Xin and Wu, Minye and Zhang, Yanshun and Zhang, Yingliang and Xu, Lan and Hu, Qiang and Yu, Jingyi},
+title = {Neural3D: Light-Weight Neural Portrait Scanning via Context-Aware Correspondence Learning},
+year = {2020},
+isbn = {9781450379885},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3394171.3413734},
+doi = {10.1145/3394171.3413734},
+booktitle = {Proceedings of the 28th ACM International Conference on Multimedia},
+pages = {3651–3660},
+numpages = {10},
+location = {Seattle, WA, USA},
+series = {MM '20}
+}

@@ -1,8 +1,0 @@
-@inproceedings{10.1145/3394171.3413734,
-author = {Zihan Zheng, Houqiang Zhong, Qiang Hu, Xiaoyun Zhang, Li Song, Ya Zhang, Yanfeng Wang},
-title = {HPC: Hierarchical Progressive Coding Framework for Volumetric Video},
-year = {2024},
-publisher = {Association for Computing Machinery},
-booktitle = {Proceedings of the ACM International Conference on Multimedia},
-series = {MM '24}
-}

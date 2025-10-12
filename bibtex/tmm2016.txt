@@ -1,9 +1,0 @@
-@ARTICLE{7366562,
-  author={Hu, Qiang and Zhang, Xiaoyun and Shi, Zhiru and Gao, Zhiyong},
-  journal={IEEE Transactions on Multimedia}, 
-  title={Neyman-Pearson-Based Early Mode Decision for HEVC Encoding}, 
-  year={2016},
-  volume={18},
-  number={3},
-  pages={379-391},
-  doi={10.1109/TMM.2015.2512799}}
